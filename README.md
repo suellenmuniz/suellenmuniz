@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/suellenmuniz" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&to=suellenmuniz_@outlook.com">
-  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="40"/>
+<a href="mailto:suellenmuniz_@outlook.com">
+   <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="40"/>
 </a>
 
 
